@@ -24,15 +24,16 @@ Welcome to my HR Data Analytics project! This dashboard was created to analyze e
 
 ## 🖼️ Dashboard Snapshots
   
-(images/snapshot1.png)
+![Test Image](images/snapshot1.png)
+
 
 ---
 
-(images/snapshot2.png)
+![Test Image](images/snapshot2.png)
 
 ---
 
-(images/snapshot3.png)
+![Test Image](images/snapshot3.png)
 
 
 ---
